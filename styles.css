@@ -68,7 +68,7 @@ a {
   --height-fluid: 100%;
   --height: 90%;
 
-  // 1280 x 720
+  /* 1280 x 720 */
   --responsive-width: 0.07813vw;
   --responsive-height: 0.13889vh;
 }
